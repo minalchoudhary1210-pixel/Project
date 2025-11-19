@@ -127,4 +127,5 @@ It contains:
 ## Contact
 
 *Author:* Minal Choudhary
+
 For queries, connect via GitHub or LinkedIn- www.linkedin.com/in/minal-choudhary.
