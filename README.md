@@ -21,9 +21,9 @@ This repository is ideal for:
 ## Project Structure
 
 
-├── Healthcare Analytics BA Project.html   # Exported Jupyter Notebook (HTML)
-├── dataset.csv                            # Dataset used for analysis
-├── README.md                              # Documentation file
+* Healthcare Analytics BA Project.html   # Exported Jupyter Notebook (HTML)
+* dataset.csv                            # Dataset used for analysis
+* README.md                              # Documentation file
 
 
 ---
