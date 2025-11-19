@@ -79,10 +79,10 @@ The project includes visual analytics such as:
 
 ## Key Insights
 
-✔ Glucose, BMI, and age have the strongest correlation with diabetes outcome
-✔ Ensemble models (like Random Forest) show better prediction accuracy
-✔ Imbalanced target distribution impacts model performance
-✔ Proper preprocessing significantly improves prediction quality
+* Glucose, BMI, and age have the strongest correlation with diabetes outcome
+* Ensemble models (like Random Forest) show better prediction accuracy
+* Imbalanced target distribution impacts model performance
+* Proper preprocessing significantly improves prediction quality
 
 ---
 
@@ -124,7 +124,7 @@ It contains:
 
 ---
 
-## 📬 Contact
+## Contact
 
 *Author:* Minal Choudhary
-For queries, connect via GitHub or LinkedIn- www.linkedin.com/in/minal-choudhary .
+* For queries, connect via GitHub or LinkedIn- www.linkedin.com/in/minal-choudhary.
