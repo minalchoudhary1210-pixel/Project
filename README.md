@@ -112,7 +112,7 @@ This Diabetes Prediction System helps:
 
 The complete analysis is available in the file:
 
-➡ *Healthcare Analytics BA Project.html*
+*Healthcare Analytics BA Project.html*
 
 It contains:
 
@@ -127,4 +127,4 @@ It contains:
 ## Contact
 
 *Author:* Minal Choudhary
-* For queries, connect via GitHub or LinkedIn- www.linkedin.com/in/minal-choudhary.
+For queries, connect via GitHub or LinkedIn- www.linkedin.com/in/minal-choudhary.
