@@ -1,6 +1,6 @@
 # Python README
 
-# Healthcare Analytics – Business Analysis Project
+# Healthcare Analytics
 
 A Data-Driven Approach to Predicting Diabetes Using Machine Learning
 
